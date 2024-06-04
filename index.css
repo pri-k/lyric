@@ -286,7 +286,7 @@ i:hover{
     background-image: url("Portfolio pages/cosmo/PORTFOLIO-28.png");
     }
 
-@media(max-width: 1083px)  {
+@media screen and (max-width: 1083px)  {
     .content h1{
         padding-left:30px ;
     }
@@ -295,7 +295,7 @@ i:hover{
     }
 }
 
-@media (max-width:750px) {
+@media screen and (max-width:750px) {
     .home{
         padding:120px 0 30px 0;
     }
@@ -350,7 +350,7 @@ i:hover{
         transform: rotateY(320deg) translateZ(330px);
     }
 }
-@media (max-width:500px){
+@media screen and (max-width:500px){
     .homeart{
         top:200px;
         width:200%;
